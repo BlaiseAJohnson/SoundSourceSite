@@ -1,0 +1,6 @@
+body {
+    background-image: url('../resources/img/speaker-grill-bg.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
